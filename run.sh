@@ -1,0 +1,1 @@
+java -classpath bin src/musichub/main/MusicHub.java
