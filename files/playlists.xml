@@ -1,0 +1,144 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<Playlists>
+	<playlist>
+		<title>playlistbyvince</title>
+		<id>1</id>
+		<songList>
+			<song>
+				<type>4</type>
+				<artist>Maroon 5</artist>
+				<title>Animals</title>
+				<id>8</id>
+				<duration>229</duration>
+				<file>Animals.mp3</file>
+			</song>
+			<book>
+				<category>1</category>
+				<author>Jenna Fox</author>
+				<title>Pour Toujours</title>
+				<langage>0</langage>
+				<id>15</id>
+				<duration>758526</duration>
+				<file>Pour_Toujours.mp3</file>
+			</book>
+			<song>
+				<type>5</type>
+				<artist>Skepta</artist>
+				<title>Bullet from a gun</title>
+				<id>20</id>
+				<duration>171</duration>
+				<file>Bullet_from_a_gun.mp3</file>
+			</song>
+			<song>
+				<type>3</type>
+				<artist>Sum 41</artist>
+				<title>My direction</title>
+				<id>35</id>
+				<duration>122</duration>
+				<file>My_direction.mp3</file>
+			</song>
+			<song>
+				<type>4</type>
+				<artist>The Black Eyed Peas</artist>
+				<title>The boogie that be</title>
+				<id>54</id>
+				<duration>312</duration>
+				<file>The_boogie_that_be.mp3</file>
+			</song>
+		</songList>
+	</playlist>
+	<playlist>
+		<title>playlistbymoms</title>
+		<id>2</id>
+		<songList>
+			<song>
+				<type>4</type>
+				<artist>Maklemore</artist>
+				<title>Can't Hold Us</title>
+				<id>9</id>
+				<duration>258</duration>
+				<file>Can't_Hold_Us.mp3</file>
+			</song>
+			<song>
+				<type>0</type>
+				<artist>Louis Amstrong</artist>
+				<title>What A Wonderful World</title>
+				<id>4</id>
+				<duration>139</duration>
+				<file>What_A_Wonderful_World.mp3</file>
+			</song>
+			<song>
+				<type>3</type>
+				<artist>ACDC</artist>
+				<title>Back In Black</title>
+				<id>10</id>
+				<duration>255</duration>
+				<file>Back_In_Black.mp3</file>
+			</song>
+			<song>
+				<type>3</type>
+				<artist>Green Day</artist>
+				<title>Basket Case</title>
+				<id>11</id>
+				<duration>181</duration>
+				<file>Green_Day.mp3</file>
+			</song>
+			<book>
+				<category>1</category>
+				<author>Jon Krakauer</author>
+				<title>Into The Wild</title>
+				<langage>1</langage>
+				<id>17</id>
+				<duration>1512300</duration>
+				<file>Into_The_Wild.mp3</file>
+			</book>
+		</songList>
+	</playlist>
+	<playlist>
+		<title>playlistbybothofus</title>
+		<id>3</id>
+		<songList>
+			<book>
+				<category>2</category>
+				<author>Jean Anouilh</author>
+				<title>Antigone</title>
+				<langage>0</langage>
+				<id>19</id>
+				<duration>217620</duration>
+				<file>Antigone.mp3</file>
+			</book>
+			<song>
+				<type>5</type>
+				<artist>Skepta</artist>
+				<title>No sleep</title>
+				<id>23</id>
+				<duration>191</duration>
+				<file>No_sleep.mp3</file>
+			</song>
+			<song>
+				<type>3</type>
+				<artist>Sum 41</artist>
+				<title>Billy spleen</title>
+				<id>43</id>
+				<duration>152</duration>
+				<file>Billy_spleen.mp3</file>
+			</song>
+			<song>
+				<type>4</type>
+				<artist>The Black Eyed Peas</artist>
+				<title>Anxiety</title>
+				<id>56</id>
+				<duration>215</duration>
+				<file>Anxiety.mp3</file>
+			</song>
+			<song>
+				<type>1</type>
+				<artist>Wolfgang Amadeus Mozart</artist>
+				<title>Alla Turca</title>
+				<id>2</id>
+				<duration>129</duration>
+				<file>Alla_Turca.mp3</file>
+			</song>
+		</songList>
+	</playlist>
+</Playlists>

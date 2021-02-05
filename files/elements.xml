@@ -1,0 +1,490 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<elements>
+	<song>
+		<type>1</type>
+		<artist>Johann Pachelbel</artist>
+		<title>Canon</title>
+		<id>1</id>
+		<duration>125</duration>
+		<file>Canon.mp3</file>
+	</song>
+	<song>
+		<type>1</type>
+		<artist>Wolfgang Amadeus Mozart</artist>
+		<title>Alla Turca</title>
+		<id>2</id>
+		<duration>129</duration>
+		<file>Alla_Turca.mp3</file>
+	</song>
+	<song>
+		<type>1</type>
+		<artist>Ludwig Van Beethoven</artist>
+		<title>Symphony N°9</title>
+		<id>3</id>
+		<duration>146</duration>
+		<file>Symphony N°9.mp3</file>
+	</song>
+	<song>
+		<type>0</type>
+		<artist>Louis Amstrong</artist>
+		<title>What A Wonderful World</title>
+		<id>4</id>
+		<duration>139</duration>
+		<file>What_A_Wonderful_World.mp3</file>
+	</song>
+
+	<song>
+		<type>0</type>
+		<artist>Sam Cooke</artist>
+		<title>A Change Is Gonna Come</title>
+		<id>5</id>
+		<duration>150</duration>
+		<file>A_Change_Is_Gonna_Come.mp3</file>
+	</song>
+
+	<song>
+		<type>0</type>
+		<artist>Nina Simone</artist>
+		<title>I Put A Spell On You</title>
+		<id>6</id>
+		<duration>158</duration>
+		<file>Put_A_Spell_On_You.mp3</file>
+	</song>
+
+	<song>
+		<type>4</type>
+		<artist>4 Smoke</artist>
+		<title>What You Know Bout Love</title>
+		<id>7</id>
+		<duration>160</duration>
+		<file>What_You_Know_Bout_Love.mp3</file>
+	</song>
+
+	<song>
+		<type>4</type>
+		<artist>Maroon 5</artist>
+		<title>Animals</title>
+		<id>8</id>
+		<duration>229</duration>
+		<file>Animals.mp3</file>
+	</song>
+
+	<song>
+		<type>4</type>
+		<artist>Maklemore</artist>
+		<title>Can't Hold Us</title>
+		<id>9</id>
+		<duration>258</duration>
+		<file>Can't_Hold_Us.mp3</file>
+	</song>
+
+	<song>
+		<type>3</type>
+		<artist>ACDC</artist>
+		<title>Back In Black</title>
+		<id>10</id>
+		<duration>255</duration>
+		<file>Back_In_Black.mp3</file>
+	</song>
+
+	<song>
+		<type>3</type>
+		<artist>Green Day</artist>
+		<title>Basket Case</title>
+		<id>11</id>
+		<duration>181</duration>
+		<file>Basket_Case.mp3</file>
+	</song>
+
+	<song>
+		<type>3</type>
+		<artist>Gorillaz</artist>
+		<title>Feel Good Inc</title>
+		<id>12</id>
+		<duration>222</duration>
+		<file>Feel_Good_Inc.mp3</file>
+	</song>
+
+	<song>
+		<type>3</type>
+		<artist>Metallica</artist>
+		<title>Nothing Else Matters</title>
+		<id>13</id>
+		<duration>388</duration>
+		<file>Nothing_Else_Matters.mp3</file>
+	</song>
+
+	<book>
+		<category>1</category>
+		<author>Gaston Leroux</author>
+		<title>Le Mystère de la chambre jaune</title>
+		<langage>0</langage>
+		<id>14</id>
+		<duration>1730160</duration>
+		<file>Le_Mystère_de_la_chambre_jaune.mp3</file>
+	</book>
+
+	<book>
+		<category>1</category>
+		<author>Jenna Fox</author>
+		<title>Pour Toujours</title>
+		<langage>0</langage>
+		<id>15</id>
+		<duration>758526</duration>
+		<file>Pour_Toujours.mp3</file>
+	</book>
+
+	<book>
+		<category>1</category>
+		<author>Albert Camus</author>
+		<title>L'Étranger</title>
+		<langage>0</langage>
+		<id>16</id>
+		<duration>435060</duration>
+		<file>L'Étranger.mp3</file>
+	</book>
+
+	<book>
+		<category>1</category>
+		<author>Jon Krakauer</author>
+		<title>Into The Wild</title>
+		<langage>1</langage>
+		<id>17</id>
+		<duration>1512300</duration>
+		<file>Into_The_Wild.mp3</file>
+	</book>
+
+	<book>
+		<category>2</category>
+		<author>Molière</author>
+		<title>Le Malade Imaginaire</title>
+		<langage>0</langage>
+		<id>18</id>
+		<duration>217800</duration>
+		<file>Le_Malade_Imaginaire.mp3</file>
+	</book>
+
+	<book>
+		<category>2</category>
+		<author>Jean Anouilh</author>
+		<title>Antigone</title>
+		<langage>0</langage>
+		<id>19</id>
+		<duration>217620</duration>
+		<file>Antigone.mp3</file>
+	</book>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Bullet from a gun</title>
+		<id>20</id>
+		<duration>171</duration>
+		<file>Bullet_from_a_gun.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Greaze Mode</title>
+		<id>21</id>
+		<duration>167</duration>
+		<file>Greaze_Mode.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Redrum</title>
+		<id>22</id>
+		<duration>235</duration>
+		<file>Redrum.mp3</file>
+	</song>
+	
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>No sleep</title>
+		<id>23</id>
+		<duration>191</duration>
+		<file>No_sleep.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>What do you mean?</title>
+		<id>24</id>
+		<duration>211</duration>
+		<file>What_do_you_mean?.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Going through it</title>
+		<id>25</id>
+		<duration>194</duration>
+		<file>Going_through_it.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Same old story</title>
+		<id>26</id>
+		<duration>200</duration>
+		<file>Same_old_story.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Love me not</title>
+		<id>27</id>
+		<duration>203</duration>
+		<file>Love_me_not.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Animal instinct</title>
+		<id>28</id>
+		<duration>189</duration>
+		<file>Animals_instinct.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Glow in the dark</title>
+		<id>29</id>
+		<duration>175</duration>
+		<file>Glow_in_the_dark.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>You wish</title>
+		<id>30</id>
+		<duration>166</duration>
+		<file>You_wish.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Gangsta</title>
+		<id>31</id>
+		<duration>199</duration>
+		<file>Gangsta.mp3</file>
+	</song>
+	<song>
+		<type>5</type>
+		<artist>Skepta</artist>
+		<title>Pure water</title>
+		<id>32</id>
+		<duration>191</duration>
+		<file>Pure_water.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>the hell song</title>
+		<id>33</id>
+		<duration>198</duration>
+		<file>the_hell_song.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Over my head</title>
+		<id>34</id>
+		<duration>149</duration>
+		<file>Over_my_head.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>My direction</title>
+		<id>35</id>
+		<duration>122</duration>
+		<file>My_direction.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Still waiting</title>
+		<id>36</id>
+		<duration>158</duration>
+		<file>Still_waiting.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>A.N.I.C</title>
+		<id>37</id>
+		<duration>37</duration>
+		<file>A.N.I.C.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>No brains</title>
+		<id>38</id>
+		<duration>166</duration>
+		<file>No_brains.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>All messed up</title>
+		<id>39</id>
+		<duration>164</duration>
+		<file>All_messed_up.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Mr.Amsterdam</title>
+		<id>40</id>
+		<duration>176</duration>
+		<file>Mr.Amsterdam.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Thanks for nothing</title>
+		<id>41</id>
+		<duration>184</duration>
+		<file>Thanks_for_nothing.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Hyper Insomnia para condrioid</title>
+		<id>42</id>
+		<duration>152</duration>
+		<file>Hyper_Insomnia_para_condrioid.mp3</file>
+	</song>
+	
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Billy spleen</title>
+		<id>43</id>
+		<duration>152</duration>
+		<file>Billy_spleen.mp3</file>
+	</song>
+	<song>
+		<type>3</type>
+		<artist>Sum 41</artist>
+		<title>Hooch</title>
+		<id>44</id>
+		<duration>208</duration>
+		<file>Hooch.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Hands up</title>
+		<id>45</id>
+		<duration>215</duration>
+		<file>Hands_up.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Labor day</title>
+		<id>46</id>
+		<duration>238</duration>
+		<file>Labor_day.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Let's get retarded</title>
+		<id>47</id>
+		<duration>215</duration>
+		<file>Let's_get_retarded.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Hey mama</title>
+		<id>48</id>
+		<duration>214</duration>
+		<file>Hey_mama.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Shut up up</title>
+		<id>49</id>
+		<duration>296</duration>
+		<file>Shut_up_up.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Smells like funk</title>
+		<id>50</id>
+		<duration>304</duration>
+		<file>Smells_like_funk.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Latin girls</title>
+		<id>51</id>
+		<duration>377</duration>
+		<file>Latin_girls.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Sexy</title>
+		<id>52</id>
+		<duration>283</duration>
+		<file>Sexy.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Fly away</title>
+		<id>53</id>
+		<duration>215</duration>
+		<file>Fly_away.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>The boogie that be</title>
+		<id>54</id>
+		<duration>312</duration>
+		<file>The_boogie_that_be.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>the apl song</title>
+		<id>55</id>
+		<duration>174</duration>
+		<file>the_apl_song.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Anxiety</title>
+		<id>56</id>
+		<duration>215</duration>
+		<file>Anxiety.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Where is the love?</title>
+		<id>57</id>
+		<duration>272</duration>
+		<file>Where_is_thhe_love?.mp3</file>
+	</song>
+	<song>
+		<type>4</type>
+		<artist>The Black Eyed Peas</artist>
+		<title>Third eye</title>
+		<id>58</id>
+		<duration>221</duration>
+		<file>Third_eye.mp3</file>
+	</song>
+</elements>
